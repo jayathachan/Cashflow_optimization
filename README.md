@@ -12,7 +12,7 @@ This is a simple Flask web app that optimizes cash flow between entities by mini
 - The frontend displays the optimized cash flow steps
 - A sample output looks like below upon accessing the localhost.
   
-<img width="872" alt="Transaction_Inputs" src="https://github.com/jayathachan/SentimentAnalysis_NLP_Project.git"
+<img width="872" alt="Transaction_Inputs" src="https://github.com/jayathachan/Splitwise_Algorithm_Project.git"
 
 ## Usage
 
