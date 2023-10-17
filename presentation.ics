@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Symplicity Corporation//PHP ICS Generator//EN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20221106T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20230312T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20231105T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20240310T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:af2cb0a0d5ff09dbeaa1ce7adb842a4d75c7e6de@northeastern-csm.symplicity.com
+DTSTAMP:20231017T150914Z
+DESCRIPTION:Location: McLeod Suites\, CSC\nDescription: You will have an opportunity to hear from 3 Co-op employers - CRD/State Street\, Akamai and DanFoss. Each of these employers hires students for Co-op. CRD and Akamai have SP2024 Co-op positions posted in NUworks so you will definitely want to review the available positions as "homework" prior to attending.\nThe session is open to Khoury Graduate students searching for Spring 2024 Co-op. \nEvent location: Curry Student Center - McLeod Suites\nTimeline as follows:\n12:30 - 1:00 p.m. - Student Registration\n1:00 - 1:30 p.m. - Employer Panel. Representatives from each company will provide an overview of their company and expectations of a student working on Co-op. \n1:30 - 3:00 p.m. - Networking. You will have an opportunity to meet the employer reps in small group settings. The reps will help review your resume\, discuss interviewing and share pointers for what they look for in a Co-op candidate.\nDon't miss the opportunity to network. Bring copies of your resume.\n\nFor more information\, log into NUworks:\n\n	https://northeastern-csm.symplicity.com/students/
+DTSTART;TZID=America/New_York:20231024T123000
+DTEND;TZID=America/New_York:20231024T150000
+LOCATION:McLeod Suites\, CSC
+END:VEVENT
+END:VCALENDAR
